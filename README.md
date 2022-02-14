@@ -1,7 +1,7 @@
 # ProxyChecker
 
-HTTP Detect
-SOCKS4 Detect
+HTTP Detect - 
+SOCKS4 Detect - 
 SOCKS5 Detect
 
 
